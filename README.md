@@ -9,7 +9,7 @@ Este projeto demonstra o uso de **state no react**, **componentes de classe** e 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/GuiTavs7/class_component_panel_with_state.git
    cd seu-repo
    ```
 
