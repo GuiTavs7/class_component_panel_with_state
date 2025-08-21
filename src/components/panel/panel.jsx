@@ -9,13 +9,13 @@ class Panel extends Component{
 
         super()
         this.state = {
-            title: 'Título do Painel'
+            title: 'API - Baralho'
         }
     }
 
     render(){
         return(
-            <section className="panel" onClick={() => this.setState({title: 'Título Novo'})}>
+            <section className="panel" onClick={() => this.setState({title: 'API - Baralho'})}>
                 <h2>{this.state.title}</h2>
             </section>
         )
